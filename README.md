@@ -1,3 +1,4 @@
 # GitProject
-## Côme THIBAULT
+## AUTHORS
 -BOB
+-SALLY
